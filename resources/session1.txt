@@ -1,0 +1,16 @@
+
+session on 1st -november -2022
+  
+ ------------------ topics given in task 1:---------------------------------------
+  
+ C Vs Cpp.
+Learn about struct, class, data types, casting, access specifiers.
+Learn about operator overloading, polymorphism.
+What are the usages of virtual function, inline function, abstraction.
+What are cpp libraries.
+Process vs Threads.
+Multithreading in cpp.
+
+topics i nee tolearn: ____________________________________________________in task1
+
+static binding,dynamic binding ,shared memory:
