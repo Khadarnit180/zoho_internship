@@ -1,1 +1,13 @@
+session2:on 10th november-2022
+topics:
+        1.  Dynamic vs Static binding.
+        2. Smart pointers
+        3. Call linkage overhead.
+        4. Diamond problem.
+        5. Since cpp is machine architecture oriented, how does its working change from 32 and 64 bit.
+        6 .multithreading in python
+
+
+ topics ineed to learn in depth:-----------
+ * working change from 32 and 64 bit.
 
