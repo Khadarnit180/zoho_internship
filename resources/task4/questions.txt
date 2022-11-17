@@ -1,0 +1,17 @@
+
+Start this practical task,
+
+Create a c++ program with continuous memory allocation.
+Find the memory used by the cpp program once every 10 seconds.
+Bind this cpp program with python and call this cpp function from python.
+
+Parallely you can start to work on these topics,
+
+
+
+Learn about Pytorch. Install Pytorch. Uses of tools like Jupyter Notebook, Google Colab.
+Vector, Matrix, Tensor, Gradient descent, Numpy, Torch, TorchVision.
+Process of vectorization
+Linear regression model.
+Dataset, Weight, Bias. Parameters Vs HyperParameters.
+Generating prediction using linear regression model.
