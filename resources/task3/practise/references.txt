@@ -1,1 +1,15 @@
+https://www.quora.com/What-is-the-difference-between-conda-and-Docker
 
+https://youtu.be/TDLKQWsrSyk
+
+
+https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu
+
+https://www.edureka.co/blog/docker-commands/
+
+https://youtu.be/HqBMEmoAd1M
+
+
+https://turbofuture.com/computers/What-are-the-basic-functions-of-a-CPU
+
+https://www.futurelearn.com/info/courses/how-computers-work/0/steps/49283
