@@ -1,4 +1,4 @@
-session2:on 10th november-2022
+session2: date:  10th november-2022
 topics:
         1.  Dynamic vs Static binding.
         2. Smart pointers
