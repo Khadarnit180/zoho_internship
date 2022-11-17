@@ -5,3 +5,8 @@ https://youtu.be/_5T70cAXDJ0
 https://stackoverflow.com/questions/5120861/how-to-measure-memory-usage-from-inside-a-c-program
 
 https://stackoverflow.com/questions/63166/how-to-determine-cpu-and-memory-consumption-from-inside-a-process
+
+
+from py torch.............
+
+https://www.liquidweb.com/kb/how-to-install-pytorch-on-ubuntu/
