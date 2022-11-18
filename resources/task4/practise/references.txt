@@ -10,3 +10,5 @@ https://stackoverflow.com/questions/63166/how-to-determine-cpu-and-memory-consum
 from py torch.............
 
 https://www.liquidweb.com/kb/how-to-install-pytorch-on-ubuntu/
+
+https://youtu.be/yMScmAOD8IE-mat mul
