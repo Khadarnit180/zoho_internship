@@ -21,5 +21,5 @@ https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_matri
 for numpy:
 https://youtu.be/Rbh1rieb3zc
 
-
+https://scipy-lectures.org/intro/numpy/array_object.html      .......numpy array methods and atributes by scipy
 by harry
