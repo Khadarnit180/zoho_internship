@@ -11,4 +11,15 @@ from py torch.............
 
 https://www.liquidweb.com/kb/how-to-install-pytorch-on-ubuntu/
 
-https://youtu.be/yMScmAOD8IE-mat mul
+https://youtu.be/yMScmAOD8IE-      mat mul in tensor
+
+https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_matrices/
+
+
+
+
+for numpy:
+https://youtu.be/Rbh1rieb3zc
+
+
+by harry
