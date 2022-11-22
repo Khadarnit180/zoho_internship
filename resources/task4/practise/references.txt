@@ -23,3 +23,17 @@ https://youtu.be/Rbh1rieb3zc
 
 https://scipy-lectures.org/intro/numpy/array_object.html      .......numpy array methods and atributes by scipy
 by harry
+
+sgd pytorch optimizer.............................
+https://youtu.be/4Ysr7bn3z6o
+
+    hypr parameters optimization
+
+https://youtu.be/5nYqK-HaoKY
+
+
+
+https://stackoverflow.com/questions/54572468/python-sklearn-get-list-of-available-hyper-parameters-for-model
+
+
+list hypr para
