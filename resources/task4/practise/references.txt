@@ -37,3 +37,7 @@ https://stackoverflow.com/questions/54572468/python-sklearn-get-list-of-availabl
 
 
 list hypr para
+
+bow---------vectorization
+
+https://towardsdatascience.com/text-vectorization-bag-of-words-bow-441d1bfce897
