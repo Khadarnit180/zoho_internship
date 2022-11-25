@@ -1,0 +1,9 @@
+Relationship between gradient descent and weights and biases.
+Loss function Vs Cost function.
+Epoch, Benefits of increasing epoch.
+Learning rate.
+Optimizer in Pytorch
+Mean squared error.
+Forward Vs Backward function.
+
+Train an unstructured data. List hyper-parameters and parameters of your model. Adjust the learning rate to half the value and find the changes in the model.
