@@ -1,1 +1,9 @@
+Date:23-11-22
 
+questions asked:
+docker vs conda cpu
+linier regrression
+valiidation test
+
+topics ineed to lean:
+validation test
