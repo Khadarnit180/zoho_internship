@@ -41,3 +41,13 @@ list hypr para
 bow---------vectorization
 
 https://towardsdatascience.com/text-vectorization-bag-of-words-bow-441d1bfce897
+
+
+
+
+
+
+
+
+importent about work flow of nlp
+https://github.com/mrdbourke/pytorch-deep-learning/blob/main/01_pytorch_workflow.ipynb  
