@@ -3,3 +3,6 @@ https://youtu.be/6igMArA6k3A
 
 https://towardsdatascience.com/building-a-neural-network-with-a-single-hidden-layer-using-numpy-923be1180dbf
 hiden layer
+
+https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/
+spliting data
