@@ -6,3 +6,24 @@ hiden layer
 
 https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/
 spliting data
+
+
+
+for adding hideen irefered this link is enough
+
+https://www.projectpro.io/article/exploring-mnist-dataset-using-pytorch-to-train-an-mlp/408    pytorch
+https://www.analyticsvidhya.com/blog/2021/08/implementing-artificial-neural-network-on-unstructured-data/  tensorflow
+
+https://www.youtube.com/watch?v=mozBidd58VQ&t=320s---------------utube video  multi hideen layer
+
+https://www.youtube.com/watch?v=mozBidd58VQ&t=320s
+
+https://towardsdatascience.com/mnist-handwritten-digits-classification-using-a-convolutional-neural-network-cnn-af5fafbc35e9
+through--------
+
+https://towardsdatascience.com/building-neural-network-using-pytorch-84f6e75f9a
+https://towardsdatascience.com/training-a-neural-network-using-pytorch-72ab708da210
+adding hideen 
+manually---
+
+https://towardsdatascience.com/building-a-neural-network-with-a-single-hidden-layer-using-numpy-923be1180dbf
