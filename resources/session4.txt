@@ -1,5 +1,17 @@
 date:8-12-2022
+
+topics givemn:----
+Linear regression vs Logistic regression. Model?
+Importance of batch size while training.
+What is cross entropy? Accuracy vs Loss function. 
+Importance of hidden layer. Deep Neural Network.
+Practical:Train the same model of Part 1 with one hidden layer.Document the performance improvement on using this layer.
+Training a model with logistic regression
+Necessity of GPU in training. Device parameter? Practical:Compare the training times on a CPU vs. GPU
+
+
 questions asked:
 
 cross entropy loss
 mse 
+
