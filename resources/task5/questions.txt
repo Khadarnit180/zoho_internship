@@ -1,0 +1,2 @@
+Practical:Train the same model of Part 1 with one hidden layer.Document the performance improvement on using this layer.
+Practical:Compare the training times on a CPU vs. GPU
