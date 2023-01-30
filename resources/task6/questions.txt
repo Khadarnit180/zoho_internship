@@ -1,0 +1,4 @@
+Convolution Neural Network. nn.Sequential , nn.Conv2d, nn.ReLU, nn.MaxPool2d layers.
+Overfitting, How to avoid it? Learning rate scheduling? Weight decay. Gradient clipping?
+Regularization of data? Data Normalization and Augmentation?
+Importance of testset validation.
