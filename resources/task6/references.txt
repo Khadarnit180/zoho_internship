@@ -1,0 +1,7 @@
+https://towardsdatascience.com/building-a-neural-network-with-a-single-hidden-layer-using-numpy-923be1180dbf
+ https://www.kdnuggets.com/2019/12/5-techniques-prevent-overfitting-neural-networks.html
+ https://towardsdatascience.com/what-is-gradient-clipping-b8e815cdfb48
+ https://medium.com/analytics-vidhya/learning-rate-decay-and-methods-in-deep-learning-2cee564f910b
+ https://neptune.ai/blog/understanding-gradient-clipping-and-how-it-can-fix-exploding-gradients-problem
+ https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1#:~:text=Learning%20rate%20schedules%20seek%20to,step%20decay%20and%20exponential%20decay.
+ https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1
