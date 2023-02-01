@@ -5,5 +5,5 @@ docker vs conda cpu
 linear regrression
 valiidation test
 
-topics ineed to lean:
+topics ineed to learn:
 validation test
