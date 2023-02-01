@@ -1,4 +1,3 @@
-
 session on 1st -november -2022
   
  ------------------ topics given in task 1:---------------------------------------
@@ -13,4 +12,4 @@ Multithreading in cpp.
 
 topics i nee tolearn: ____________________________________________________in task1
 
-static binding,dynamic binding ,shared memory:
+static binding,dynamic binding ,shared memory,call linkage overhead:
