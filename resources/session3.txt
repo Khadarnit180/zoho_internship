@@ -2,7 +2,7 @@ Date:23-11-22
 
 questions asked:
 docker vs conda cpu
-linier regrression
+linear regrression
 valiidation test
 
 topics ineed to lean:
