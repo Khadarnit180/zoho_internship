@@ -1,0 +1,3 @@
+for onxx cpp:
+
+https://onnxruntime.ai/docs/tutorials/mnist_cpp.html
