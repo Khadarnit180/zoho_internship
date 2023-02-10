@@ -2,6 +2,9 @@ for onxx cpp:
 
 https://onnxruntime.ai/docs/tutorials/mnist_cpp.html
 
+
+
+
 https://onnxruntime.ai/docs/api/python/api_summary.html#
 
 to access onxx thrgh cpp
@@ -12,3 +15,6 @@ https://github.com/adamstark/AudioFile
 
 
 torch.onxx pyhttps://pytorch.org/docs/stable/onnx.html#example-alexnet-from-pytorch-to-onnx
+
+build comanda of rto
+https://onnxruntime.ai/docs/build/inferencing.html
