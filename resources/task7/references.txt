@@ -18,3 +18,6 @@ torch.onxx pyhttps://pytorch.org/docs/stable/onnx.html#example-alexnet-from-pyto
 
 build comanda of rto
 https://onnxruntime.ai/docs/build/inferencing.html
+
+for visualizing model -------
+https://netron.app/
