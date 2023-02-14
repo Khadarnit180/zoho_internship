@@ -21,3 +21,8 @@ https://onnxruntime.ai/docs/build/inferencing.html
 
 for visualizing model -------
 https://netron.app/
+
+error while loading
+onnx
+
+https://github.com/microsoft/onnxruntime/issues/1822
