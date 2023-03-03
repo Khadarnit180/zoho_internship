@@ -1,9 +1,10 @@
-These are the tasks i have done in my zoho internship.
+These are the tasks i have done in my zoho internship.-----------------------------------
 
 
 
 
 TASK1-------------------
+
 
 C Vs Cpp.
 Learn about struct, class, data types, casting, access specifiers.
@@ -13,45 +14,58 @@ What are cpp libraries.
 Process vs Threads.
 Multithreading in cpp
 
+topics:------------------------------------------------
+In a folder, have some files in .txt format. Read the contents of the file and remove the words if they are printed more than once successively. Example: "Read a file file file" has to be converted to "Read a file".
+Create 10 threads and do the above processing in a parallel manner.
+If the number of files is less than 10, then create number of threads equal to the number of files. Example: If there is only one file in the folder then create only one thread.
+Print the total time taken for execution.
+Task-2---------------------------------------------------------------------
+  1. Dynamic vs Static binding.
+        2. Smart pointers
+        3. Call linkage overhead.
+        4. Diamond problem.
+        5. Since cpp is machine architecture oriented, how does  
+            working change from 32 and 64 bit.
+        6. What is page fault.
+        7. What is virtual memory, Physical memory, Shared memory.
 
 
 
 
 TASK3:----------------------------------------------------
-Python Vs C++
-Properties - Datatypes, Memory 
-Slicing techniques
-Tests in Python
-Multithreading in Python
-Multiprocessing vs Multithreading
+using python.
 
+In a folder, have some files in .txt format. Read the contents of the file and remove the words if they are printed more than once successively. Example: "Read a file file file" has to be converted to "Read a file".
+Create 10 threads and do the above processing in a parallel manner.
+If the number of files is less than 10, then create number of threads equal to the number of files. Example: If there is only one file in the folder then create only one thread.
+Print the total time taken for execution.
 
-PRACTICAL TASK:
-In a folder, have some files in .txt format. Read the contents of the file and remove the words if they are printed more than once. Example: "Read a file file file" has to be converted to "Read a file". Create 10 threads and do the above processing in a parallel manner. If the number of files is less than 10, then create number of threads equal to the number of files. Example: If there is only one file in the folder then create only one thread. Print the total time taken for execution.
+topics:-----------------------
 
-
-.
-      
-
- TASK 3:
 Learn these topics after completing the practical task,
 CPU, Architecture, Functionality.
 Conda vs Docker
 Process, Core, Memory
 
 
+TASK -4-----------------------------------------
+
+
 Create a c++ program with continuous memory allocation.
 Find the memory used by the cpp program once every 10 seconds.
 Bind this cpp program with python and call this cpp function from python.
 
-
+TOPICS:
+-----------------------MACHINE LEARNING TOPICS -------------------------------------------------------------------------------------STATRTED
 
 Learn about Pytorch. Install Pytorch. Uses of tools like Jupyter Notebook, Google Colab.
 Vector, Matrix, Tensor, Gradient descent, Numpy, Torch, TorchVision.
 Process of vectorization
 Linear regression model.
 Dataset, Weight, Bias. Parameters Vs HyperParameters.
+PRACTICAL TASK:----------
 Generating prediction using linear regression model.
+
 
 
 Relationship between gradient descent and weights and biases.
@@ -62,10 +76,13 @@ Optimizer in Pytorch
 Mean squared error.
 Forward Vs Backward function.
 
+
+PRACTICAL TASK:------------------------------------
 Train an unstructured data. List hyper-parameters and parameters of your model. Adjust the learning rate to half the value and find the changes in the model.
 
-
-
+----------TASK 5------------------------------------------------
+ TOPICS:
+LOGISTIC REGRESSSION
 Linear regression vs Logistic regression. Model?
 Importance of batch size while training.
 What is cross entropy? Accuracy vs Loss function. 
@@ -73,13 +90,14 @@ Importance of hidden layer. Deep Neural Network.
 Necessity of GPU in training. Device parameter? 
 
 
-Practical TASK:Train the same model of Part 1 with one hidden layer.Document the performance improvement on using this layer.
+Practical TASK------------------------
+1)Train the same model of Part 1 with one hidden layer.Document the performance improvement on using this layer.
 
-Training a model with logistic regressioN
+2)Training a model with logistic regressioN
 
-Practical TASK :Compare the training times on a CPU vs. GPU
+3)Practical TASK :Compare the training times on a CPU vs. GPU
 
-
+TASK 6:----------------------------------------------DEEPLEANING TOPICS----------------------------------------------------
 
 Once you complete your current task, start these,
 Convolution Neural Network. nn.Sequential , nn.Conv2d, nn.ReLU, nn.MaxPool2d layers.
