@@ -14,7 +14,7 @@ What are cpp libraries.
 Process vs Threads.
 Multithreading in cpp
 
-topics:------------------------------------------------
+task:------------------------------------------------
 In a folder, have some files in .txt format. Read the contents of the file and remove the words if they are printed more than once successively. Example: "Read a file file file" has to be converted to "Read a file".
 Create 10 threads and do the above processing in a parallel manner.
 If the number of files is less than 10, then create number of threads equal to the number of files. Example: If there is only one file in the folder then create only one thread.Print the total time taken for execution.
